@@ -1,16 +1,16 @@
-package server
-
+package main
 
 import (
 	"context"
 	"fmt"
 	"net"
+
+	controllers "github.com/umamaheswari76/netxd_customer_controller/controllers"
+	"github.com/umamaheswari76/netxd_customer_dal/services"
+	cst "github.com/umamaheswari76/netxd_customer_proto/customer"
+
 	config "github.com/umamaheswari76/netxd_customer_config/config"
 	constants "github.com/umamaheswari76/netxd_customer_config/constants"
-	controllers "github.com/umamaheswari76/netxd_customer_controller/controllers"
-	services "github.com/umamaheswari76/netxd_customer_dal/services"
-	cst "github.com/umamaheswari76/netxd_customer_proto/proto"
-
 	"go.mongodb.org/mongo-driver/mongo"
 	"google.golang.org/grpc"
 )

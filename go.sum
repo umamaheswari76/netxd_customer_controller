@@ -10,6 +10,10 @@ github.com/klauspost/compress v1.13.6 h1:P76CopJELS0TiO2mebmnzgWaajssP/EszplttgQ
 github.com/klauspost/compress v1.13.6/go.mod h1:/3/Vjq9QcHkK5uEr5lBEmyoZ1iFhe47etQ6QUkpK6sk=
 github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe h1:iruDEfMl2E6fbMZ9s0scYfZQ84/6SPL6zC8ACM2oIL0=
 github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe/go.mod h1:wL8QJuTMNUDYhXwkmfOly8iTdp5TEcJFWZD2D7SIkUc=
+github.com/umamaheswari76/netxd_customer_config v0.0.0-20230831055608-4475f816eab8 h1:AAIrJ2/tJSLBGrp9/xpzykHQOltL0dJ8Q8CbZ/XQWQw=
+github.com/umamaheswari76/netxd_customer_config v0.0.0-20230831055608-4475f816eab8/go.mod h1:VdWxD6uU3Y+U+4verdpEwCPXsjWWfU9+U37rcyjQkvg=
+github.com/umamaheswari76/netxd_customer_proto v1.0.2 h1:YLm703jq6N/wltBL1XQcNMFaW+Xazt80iKieM3i3FRk=
+github.com/umamaheswari76/netxd_customer_proto v1.0.2/go.mod h1:elakEZgTyp6Li9fPTupswTfVr8GqYuKSgHWH1NRTE+E=
 github.com/xdg-go/pbkdf2 v1.0.0 h1:Su7DPu48wXMwC3bs7MCNG+z4FhcyEuz5dlvchbq0B0c=
 github.com/xdg-go/pbkdf2 v1.0.0/go.mod h1:jrpuAogTd400dnrH08LKmI/xc1MbPOebTwRqcT5RDeI=
 github.com/xdg-go/scram v1.1.2 h1:FHX5I5B4i4hKRVRBCFRxq1iQRej7WO3hhBuJf+UUySY=
